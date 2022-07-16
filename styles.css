@@ -13,7 +13,7 @@ html {
 
 .myButton {
     text-align: center -moz-box-shadow; 
-    inset: 0px 1px 0px 0px #ff595b;
+    inset: 0px 1px 0px 0px #59eeff;
     -webkit-box-shadow: inset 0px 1px 0px 0px #bbdaf7;
     box-shadow: inset 0px 1px 0px 0px #59eeff;
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #00a1ad), color-stop(1, #00706c));
